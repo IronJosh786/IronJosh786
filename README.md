@@ -2,6 +2,8 @@
 
  I'm a passionate full stack software developer currently focused on crafting various projects with the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
+ 💼 **Portfolio**: [Check out my portfolio](https://faizanejaz.netlify.app/)
+
 🔭 **Currently Working On**: Money Transfer MERN Application
 
 🌱 **Skills**: JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS
