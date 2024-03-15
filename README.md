@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Faizan Ejaz!
 
-## 🔭 I’m currently working on Money Transfer MERN Application.
+# 🔭 I’m currently working on Money Transfer MERN Application.
 [![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786&theme=github-dark-blue)](https://git.io/streak-stats)
 <!--
 **IronJosh786/IronJosh786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
