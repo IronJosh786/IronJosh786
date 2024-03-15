@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Faizan here!
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786&theme=dark)](https://git.io/streak-stats)
 <!--
 **IronJosh786/IronJosh786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
