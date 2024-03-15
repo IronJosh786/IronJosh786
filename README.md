@@ -1,18 +1,11 @@
-### Hi there 👋 I am Faizan Ejaz!
+### Hi there, I'm Faizan Ejaz! 👋
 
-# 🔭 I’m currently working on Money Transfer MERN Application.
+ I'm a passionate full stack software developer currently focused on crafting various projects with the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+
+🔭 **Currently Working On**: Money Transfer MERN Application
+
+🌱 **Skills**: JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS
+
+📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786&theme=github-dark-blue)](https://git.io/streak-stats)
-<!--
-**IronJosh786/IronJosh786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
