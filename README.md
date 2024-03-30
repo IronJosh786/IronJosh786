@@ -4,7 +4,7 @@
 
  💼 **Portfolio**: [Check out my portfolio](https://faizanejaz.netlify.app/)
 
-🔭 **Currently Working On**: Money Transfer MERN Application
+🔭 **Currently Working On**: Social Media MERN Application
 
 🌱 **Skills**: JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS
 
