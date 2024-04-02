@@ -11,3 +11,5 @@
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786&theme=github-dark-blue)](https://git.io/streak-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/{IronJosh786}/count.svg)
