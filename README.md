@@ -10,6 +10,6 @@
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=IronJosh786&style=flat)
