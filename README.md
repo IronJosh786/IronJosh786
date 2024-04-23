@@ -4,7 +4,7 @@
 
  💼 **Portfolio**: [Check out my portfolio](https://faizanejaz.netlify.app/)
 
-🔭 **Currently Working On**: Social Media MERN Application
+🔭 **Currently Learning**: Next.js & Typescript
 
 🌱 **Skills**: JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS
 
