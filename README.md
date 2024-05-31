@@ -6,8 +6,7 @@
 
 🌱 **Skills**:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=typescript,javascript,postgresql,prisma,mongodb,mongoose)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)!  [My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,react,reactquery,redux,tailwindcss,css3,html5,docker,zod)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=typescript,javascript,postgresql,prisma,mongodb,mongoose)  [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) ![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,react,reactquery,redux,tailwindcss,css3,html5,docker,zod)
 
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
