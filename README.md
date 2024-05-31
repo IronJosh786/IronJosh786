@@ -5,7 +5,8 @@
  💼 **Portfolio**: [Check out my portfolio](https://faizanejaz.netlify.app/)
 
 🌱 **Skills**:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html)](https://skillicons.dev)
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
