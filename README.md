@@ -6,9 +6,7 @@
 
 🌱 **Skills**:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html,docker)](https://skillicons.dev)
-
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=nextdotjs,typescript,javascript,postgresql,prisma,mongodb,mongoose,express,nodedotjs,react,reactquery,redux,tailwindcss,css3,html5,docker)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=nextdotjs,typescript,javascript,postgresql,prisma,mongodb,mongoose,express,nodedotjs,react,reactquery,redux,tailwindcss,css3,html5,docker,zod)
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
