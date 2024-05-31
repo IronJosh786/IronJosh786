@@ -6,7 +6,7 @@
 
 🌱 **Skills**:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html,docker)](https://skillicons.dev)
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
