@@ -8,6 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html,docker)](https://skillicons.dev)
 
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html,docker)]
+
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IronJosh786&theme=github-dark-blue)](https://git.io/streak-stats)
