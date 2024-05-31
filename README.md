@@ -4,8 +4,6 @@
 
  💼 **Portfolio**: [Check out my portfolio](https://faizanejaz.netlify.app/)
 
-🔭 **Currently Building**: WingsInProgress Web Application
-
 🌱 **Skills**: Typescript, JavaScript, Next.js, React.js, Node.js, Express.js, MongoDB, HTML, CSS
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
