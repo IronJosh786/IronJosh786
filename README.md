@@ -4,7 +4,8 @@
 
  💼 **Portfolio**: [Check out my portfolio](https://faizanejaz.netlify.app/)
 
-🌱 **Skills**: Typescript, JavaScript, Next.js, React.js, Node.js, Express.js, MongoDB, HTML, CSS
+🌱 **Skills**:
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,postgres,prisma,mongodb,express,nodejs,react,redux,tailwind,css,html&perline=5)](https://skillicons.dev)
 
 📫 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/faizan-ejaz-shaikh/) | [Twitter](https://twitter.com/faizanejaz_).
 
