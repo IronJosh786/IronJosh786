@@ -1,3 +1,5 @@
+<div align='center'>
+  
 ## Hi there 👋 I'm `Faizan Ejaz`
 Passionate Full Stack Developer specialized in building `typesafe`, `optimized` & `secure` web apps.
 
@@ -15,3 +17,5 @@ Passionate Full Stack Developer specialized in building `typesafe`, `optimized` 
 ![](https://komarev.com/ghpvc/?username=IronJosh786&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
